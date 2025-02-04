@@ -59,12 +59,17 @@
 <a href="https://developer.apple.com/swift/" target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
 <a href="https://developer.android.com/kotlin" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 <a href="https://laravel.com/" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
-### **⚡ Databases:**
+### **⚡  Databases & Caching:**
 <a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
 <a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
+### **🔗 APIs & Communication Protocols:**
+<a href="https://graphql.org/" target="_blank"><img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank"><img alt="HTTPS" src="https://img.shields.io/badge/HTTPS-0057B8?style=for-the-badge&logo=https&logoColor=white"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets" target="_blank"><img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-0078D7?style=for-the-badge&logo=websocket&logoColor=white"></a>
 
+---
 ### **☁️ DevOps & Tools:**
 <a href="https://aws.amazon.com" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 <a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
