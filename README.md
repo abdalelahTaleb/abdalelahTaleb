@@ -1,19 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-22243
-Fork on GitHub
-7201
 
-back to edit
-
-copied
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Abdalelah Taleb</h1>
 <h3 align="center">🚀 Full-Stack Developer | System Analyst | Freelancer | Mobile App Engingeer</h3>
 
