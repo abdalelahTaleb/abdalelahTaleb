@@ -3,9 +3,11 @@
 </p>
 <h3 align="center">🚀 Full-Stack Developer | System Analyst | Freelancer | Mobile App Engineer</h3>
 
+
 <p align="center">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+  <img src="https://raw.githubusercontent.com/abdalelahTaleb/abdalelahTaleb/refs/heads/main/welcome.gif" width="300"/>
 </p>
+
 
 ---
 
