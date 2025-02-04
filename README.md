@@ -1,4 +1,6 @@
-<h1 align="center">Hi I'm Abdalelah Taleb</h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
+<h1> Hi <  I'm Abdalelah Taleb/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 <h3 align="center">🚀 Full-Stack Developer | System Analyst | Freelancer | Mobile App Engineer</h3>
 
 <p align="center">
