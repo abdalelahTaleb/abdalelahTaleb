@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdalelah Taleb</h1>
+<h1 align="center">Hi I'm Abdalelah Taleb</h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 <h3 align="center">🚀 Full-Stack Developer | System Analyst | Freelancer | Mobile App Engineer</h3>
 
 <p align="center">
@@ -30,41 +30,41 @@
 
 ---
 
-## 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
 
+## 🛠 Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px">
 ### **🖥 Programming Languages:**
-![JavaScript](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/javascript.gif)
-![Python](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/python.gif)
-![C++](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/cpp.gif)
-![C#](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/csharp.gif)
-![Dart](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/dart.gif)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+<a href="https://www.python.org/" target="_blank"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="https://www.php.net" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
+<a href="https://swift.org" target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+<a href="https://kotlinlang.org/" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 
 ### **🌐 Web Development:**
-![HTML](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/web/html.gif)
-![CSS](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/web/css.gif)
-![React](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/react.gif)
-![Node.js](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/nodejs.gif)
-![Express.js](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/express.gif)
-![Django](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/django.gif)
-![Bootstrap](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/bootstrap.gif)
+<a href="https://reactjs.org/" target="_blank"><img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
+<a href="https://vuejs.org/" target="_blank"><img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>
+<a href="https://expressjs.com" target="_blank"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+<a href="https://getbootstrap.com/" target="_blank"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
 
 ### **📱 Mobile Development:**
-![Flutter](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/flutter.gif)
-![React Native](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/react-native.gif)
+<a href="https://flutter.dev" target="_blank"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://developer.apple.com/swift/" target="_blank"><img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+<a href="https://developer.android.com/kotlin" target="_blank"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"></a>
 
 ### **⚡ Databases:**
-![MySQL](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/mysql.gif)
-![MongoDB](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/mongodb.gif)
-![PostgreSQL](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/postgresql.gif)
-![Microsoft SQL Server](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/mssql.gif)
+<a href="https://www.mysql.com/" target="_blank"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://redis.io/" target="_blank"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
 
-### **🚀 Tools & Platforms:**
-![AWS](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cloud/aws.gif)
-![Docker](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/tools/docker.gif)
-![Git](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/tools/git.gif)
-![Linux](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/tools/linux.gif)
+### **☁️ DevOps & Tools:**
+<a href="https://aws.amazon.com" target="_blank"><img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+<a href="https://www.docker.com/" target="_blank"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="https://kubernetes.io" target="_blank"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 
 ---
+
 
 ## 📊 GitHub Stats
 <p align="center">
