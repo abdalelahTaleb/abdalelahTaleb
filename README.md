@@ -35,21 +35,34 @@
 ### **🖥 Programming Languages:**
 ![JavaScript](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/javascript.gif)
 ![Python](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/python.gif)
-![SQL](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/sql.gif)
+![C++](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/cpp.gif)
+![C#](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/csharp.gif)
+![Dart](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/programming-languages/dart.gif)
 
 ### **🌐 Web Development:**
+![HTML](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/web/html.gif)
+![CSS](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/web/css.gif)
 ![React](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/react.gif)
 ![Node.js](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/nodejs.gif)
 ![Express.js](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/express.gif)
 ![Django](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/django.gif)
+![Bootstrap](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/bootstrap.gif)
 
 ### **📱 Mobile Development:**
 ![Flutter](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/flutter.gif)
 ![React Native](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/frameworks/react-native.gif)
 
-### **⚡ Database:**
+### **⚡ Databases:**
 ![MySQL](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/mysql.gif)
 ![MongoDB](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/mongodb.gif)
+![PostgreSQL](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/postgresql.gif)
+![Microsoft SQL Server](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/databases/mssql.gif)
+
+### **🚀 Tools & Platforms:**
+![AWS](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/cloud/aws.gif)
+![Docker](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/tools/docker.gif)
+![Git](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/tools/git.gif)
+![Linux](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/tools/linux.gif)
 
 ---
 
